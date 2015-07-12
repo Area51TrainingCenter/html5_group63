@@ -1,0 +1,26 @@
+.titulo{
+	background-color: red;
+	color: white;
+	width: 250px;
+	height: 100px;
+}
+
+.texto{
+	background-color: blue;
+	color: white;
+}
+
+.link{
+	background-color: orange;
+	color: white;	
+	width: 500px;
+}
+.parrafo{
+	background-color: purple;
+	color: white;	
+}
+
+.texto2{
+	background-color: blue;
+	color: white;
+}

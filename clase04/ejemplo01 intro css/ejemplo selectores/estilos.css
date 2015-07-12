@@ -1,0 +1,29 @@
+/*existen 2 formas de llamar a los elementos en html
+una es por id y otra es por su class . 
+es recomendable utilizar las clases para asignar estilos*/
+
+/* llamado a elemento p de la linea 11 mediante el ID
+#parrafo1{
+
+
+} 
+*/
+
+	
+/* llamado a elemento p de la linea 11 mediante la clase
+.texto1{
+
+
+} 
+*/
+.titulo{
+	color: orange;
+}
+
+.texto1{
+	color: red;
+}
+
+.texto2{
+	color: blue;
+}
