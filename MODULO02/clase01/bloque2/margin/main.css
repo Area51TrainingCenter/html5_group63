@@ -1,0 +1,24 @@
+.wrapper{
+	width: 970px;
+	margin: 0 auto;
+	height: 800px;
+	background-color:gray
+}
+
+.box1{
+	width: 300px;
+	height: 200px;
+	background-color: orange;
+	margin: 30px;
+	margin-left: 650px;
+	display: inline-block;
+}
+
+.box2{
+	width: 300px;
+	height: 200px;
+	margin: 30px;
+	background-color: green;
+
+	
+}

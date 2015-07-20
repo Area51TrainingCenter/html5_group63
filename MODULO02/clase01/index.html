@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi pagina con estilos Css</title>
+	</head>
+	<body>
+		<h1 id="ui-titulo" class="ui-titulo-b">Titulo principal</h1>
+		<p class="ui-parrafo">Parrafo de contendio</p>
+
+		<p>Parrafo de contendio</p>
+		<ul class="opciones">
+			<li>Opcion 1</li>
+			<li>Opcion2</li>
+			<li>Opcion3</li>
+			<li>Opcion4</li>
+		</ul>
+
+
+	  <ul class="enlaces">
+			<li>Opcion 1</li>
+			<li>Opcion2</li>
+			<li>Opcion3</li>
+			<li>Opcion4</li>
+		</ul>
+
+
+
+
+	</body>
+</html>
+<style>
+/* llamar elemento por nombre de etiqueta */
+/*p{
+		color: red;
+}
+*/
+/* llamar al elmento por identificador */
+
+/* posibles identificadores */
+/* id , class */ 
+/* cuando utilizo el identificador de tipo clase de un elemento
+utilizo un " punto ( . )" antes del nombre de la clase*/
+
+/* cuando utilizo el identificador de tipo ID de un elemento
+utilizo un " numeral ( # )" antes del nombre de la clase*/
+
+.ui-parrafo{
+	color: red;
+}
+#ui-titulo{
+	color: blue;
+}
+
+.ui-titulo-b{
+color: red;
+
+}
+h1{
+	color: skyblue;
+}
+
+
+.opciones li{
+	color: blue;
+}
+
+.enlaces li{
+	color: red;
+}
+
+.cabecera .menu-principal li{color:blue;}
+.cabecera .menu-principal .opcion{color:red;}
+</style>
+
+<header class="cabecera">
+	<nav>
+		<ul class="menu-pricinpal">
+			<li>deportes</li>
+			<li class="opcion">educacion</li>
+		</ul>
+	</nav>
+</header>
