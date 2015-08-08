@@ -1,0 +1,16 @@
+header{
+	background-color: black;
+}
+nav{
+	width: 970px;
+	margin: 0 auto;
+}
+.menu li{
+	display: inline-block;
+	color: white;
+	padding: 20px;
+}
+
+.menu li:hover{
+	background-color: skyblue;
+}

@@ -1,0 +1,48 @@
+header{
+	background-color: black;
+}
+nav{
+	width: 970px;
+	margin: 0 auto;
+}
+.menu li{
+	display: inline-block;
+	color: white;
+	padding: 20px;
+}
+
+.menu li:hover{
+	background-color: skyblue;
+}
+.wrapper{
+	width: 970px;
+	margin:0 auto;
+}
+.deportes
+{
+width: 970px;
+height: 500px;
+background-color: rgba(210, 210, 210, 0.47);
+margin: 10px 0px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+
+
+box-shadow: 2px 2px 3px gray;
+
+}
+
+.noticias
+{
+width: 970px;
+height: 500px;
+background-color: rgba(210, 210, 210, 0.47);
+margin: 10px 0px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+
+
+box-shadow: 2px 2px 3px gray;
+}

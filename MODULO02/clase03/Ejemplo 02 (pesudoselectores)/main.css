@@ -1,0 +1,31 @@
+a[title*="index"]
+{
+	color: blue;
+	font-size: 40px;
+}
+
+
+a[href*="facebook"]
+{
+	color: black;
+	font-size: 40px;
+}
+
+
+h2 + h3
+{
+	font-weight: bold;
+	color: blue;
+	font-size: 30px;
+}
+
+
+ul:first-child 
+{ font-size: 30px;
+color: red;} 
+ul:last-child 
+{
+	font-size: 30px;
+color: blue;
+}
+
