@@ -1,0 +1,40 @@
+@media (max-width: 970px){
+	.wrapper{
+		width: 100%;
+	}
+	footer{
+		width: 100%;
+	}
+	.caja1 , .caja2{text-align: center;}
+	.info1{width: 30%;margin: 1%;}
+	.info2{width: 62%;margin: 1%;}
+	.box{
+		width: 48%;
+		height: auto;
+	}
+	.caja2 .item
+	{
+		width: 40%;
+	}
+	.caja1 .item
+	{
+		width: 43%
+	}
+}
+
+@media (max-width: 620px){
+	.caja1 , .caja2
+	{width: 100%;}
+	}
+
+
+	@media (max-width: 320px){
+
+		.caja1 .item{
+			width: 90%
+		}
+
+		.caja2 .item{
+			width: 90%
+		}
+	}

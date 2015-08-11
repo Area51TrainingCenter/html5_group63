@@ -1,0 +1,73 @@
+.wrapper{
+	width: 970px;
+	margin: 0 auto;
+	
+}
+nav{
+	background-color: black;
+}
+
+.menu li{
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	background-color: black;
+
+}
+.menu li:hover{
+	
+	background-color: blue;
+}
+
+.box{
+	width: 480px;
+	height:400px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+}
+.caja1{
+	
+	background-color: rgba(230,0,0,0.5);
+}
+.caja2{
+	background-color: rgba(0,230,0,0.5);
+}
+
+
+.caja1 .item{
+	width: 220px;
+	height: 180px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: rgba(0,255,0,0.5);
+	margin: 8px;
+}
+
+.caja2 .item{
+	width: 220px;
+	height: 180px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: rgba(0,0,255,0.5);
+	margin: 8px;
+}
+
+
+footer{
+	width: 970px;
+	
+	margin-top: 10px;
+	background-color: rgba(0,20,110,0.5);
+}
+
+footer div{
+	width: 470px;
+	height: 160px;
+	vertical-align: top;
+	display: inline-block;
+	margin:5px;
+
+}
+.info1{background-color: blue;}
+.info2{background-color: red;}

@@ -1,0 +1,47 @@
+.wrapper{
+	width: 970px;
+	margin: 0 auto;
+	background-color: gray;
+	
+}
+
+.nav-mobil li{
+	display: none;
+}
+nav{
+	background-color: black;
+}
+
+.menu li{
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	background-color: black;
+
+}
+.menu li:hover{
+	
+	background-color: blue;
+}
+
+.box{
+	width: 480px;
+	height:400px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+}
+.caja1{
+	
+	background-color: rgba(230,0,0,0.5);
+}
+.caja2{
+	background-color: rgba(0,230,0,0.5);
+}
+
+footer{
+	width: 970px;
+	height: 200px;
+	margin-top: 10px;
+	background-color: rgba(0,20,110,0.5);
+}

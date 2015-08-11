@@ -1,0 +1,28 @@
+@media (max-width: 970px){
+	.wrapper{
+		width: 100%;
+	}
+	.caja1{width: 100%;}
+
+	.caja1 article{
+		width: 30%;
+	}
+	.caja1 article img{
+		width: 100%;
+	}
+
+	/*.caja2 {display: none;}*/
+	.caja2{width: 100%;}
+	footer{width: 100%;}
+	.caja2 article{display: inline-block;}
+	.caja2 {text-align: center;}
+}
+
+@media (max-width: 480px){
+	.caja1 article{
+		width: 45%;
+	}
+	.last {
+		width: 90%!important;
+	}
+}

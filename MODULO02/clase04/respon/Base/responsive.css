@@ -1,0 +1,52 @@
+@media screen and (min-width: 0px) and (max-width: 320px){
+
+	.wrapper{
+	width:90% ;
+	
+	}
+
+
+
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+
+	.wrapper{
+	width:90% ;
+	
+	}
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 480px) and (max-width: 600px){
+
+	.wrapper{
+	width:90% ;
+	
+	}
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 600px) and (max-width: 970px){
+
+	.wrapper{
+	width:90% ;
+	
+	}
+
+
+
+
+}

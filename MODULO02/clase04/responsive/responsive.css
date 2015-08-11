@@ -1,0 +1,28 @@
+@media (max-width:970px ){
+	.wrapper{width: 100%;}
+	.menu a{display: none;}
+	.menu .opc-nav{display: block;text-align: right;padding-right: 10px;}
+	footer{width: 95%;margin: 0 auto}
+
+	.caja1 {width: 100%;}
+	.caja1 article {width: 20%;margin: 10px 2% 10px 3%;}
+	.caja1 img{width: 100%} 
+	.caja1 h2{width: 100%} 
+
+
+	.caja2 {width: 100%}
+	.caja2 article{width: 50%;float: left;}
+
+}
+
+@media (max-width:600px ){
+	
+	.caja1 article {width: 30%;margin: 10px 1.5%;}
+	
+}
+
+@media (max-width:420px ){
+	
+	.caja1 article {width: 40%;margin: 10px 2.5% 10px 5%;}
+	
+}

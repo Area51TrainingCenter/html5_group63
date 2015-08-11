@@ -1,0 +1,28 @@
+@media (max-width: 970px){
+
+.wrapper{
+	width: 90%;
+
+}
+
+}
+
+@media (max-width: 620px){
+	.wrapper{
+		background-color: blue!important;
+	}
+
+}
+
+
+@media (max-width: 420px){
+	.wrapper{
+		background-color: green!important;
+		width: 20%;
+	}
+}
+
+
+
+
+

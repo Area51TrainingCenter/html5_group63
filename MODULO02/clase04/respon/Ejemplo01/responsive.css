@@ -1,0 +1,19 @@
+@media (max-width: 970px){
+	.wrapper{
+		width: 99%;
+	}
+	footer{width: 100%;}
+
+	.box{width: 49%;}
+
+	.menu li{display:block;text-align: right;display: none;}
+	.nav-mobil li{display: block!important;
+}
+
+}
+
+
+@media (max-width: 420px){
+
+	.box{width: 49%;}
+}

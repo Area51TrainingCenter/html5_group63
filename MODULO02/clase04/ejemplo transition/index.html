@@ -1,0 +1,76 @@
+<!doctype>
+<html>
+	<head>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ul>
+					<li>Opcion1</li>
+					<li>Opcion2</li>
+					<li>Opcion3</li>
+
+				</ul>
+			</nav>
+		</header>
+
+
+
+		<div class="box">
+			<div class="box2"></div>
+		</div>
+
+
+	</body>
+</html>
+
+<style type="text/css">
+nav ul{
+	width: 970px;
+	margin: 0 auto;
+	background-color: black;
+
+}
+nav ul li{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	display: inline-block;
+	transition:all 0.6s linear;
+}
+
+nav ul li:hover{
+	background-color: blue;
+}
+
+
+.box{
+	width: 250px;
+	height: 200px;
+	background-color: black;
+	transition:all 0.6s linear;
+	
+	}
+	.box2{
+		width: 10px;
+		height: 200px;
+		background-color: red;
+		transition:all 0.8s linear;
+	
+	}
+
+.box:hover{
+	width: 2100px;
+	height: 200px;
+	/*background-color: red;*/
+	/*border-radius:50%;*/
+	opacity: 1;
+	margin-top:100px;
+}
+
+.box:hover .box2{
+	width: 1800px;
+	height: 200px;
+	
+}
+	</style>
